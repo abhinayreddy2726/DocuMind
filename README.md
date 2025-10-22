@@ -452,20 +452,7 @@ pip install moondream-station
 - **Async Processing**: Up to 50% faster for large batches
 - **Memory Usage**: ~500MB-1GB depending on model
 
-## 🎯 Production Checklist
 
-Before deploying to production:
-
-- [ ] Change `SECRET_KEY` in `.env`
-- [ ] Set `DEBUG=False`
-- [ ] Configure `CORS_ORIGINS` properly
-- [ ] Enable rate limiting (if needed)
-- [ ] Set up proper logging
-- [ ] Configure HTTPS/SSL
-- [ ] Add authentication/authorization
-- [ ] Set up monitoring and alerts
-- [ ] Configure automated backups
-- [ ] Test error handling thoroughly
 
 ## 🔄 Future Enhancements
 
@@ -485,9 +472,6 @@ Before deploying to production:
 - **FastAPI Docs**: https://fastapi.tiangolo.com/
 - **Issues**: Open an issue on GitHub
 
-## 📄 License
-
-MIT License - Free to use and modify
 
 ## 🙏 Acknowledgments
 
@@ -503,8 +487,7 @@ This tool is for educational and legitimate purposes only. Ensure you have prope
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: January 2025  
-**Author**: DocuMind Team
+**Last Updated**: October 2025  
 
 For more information, visit the [documentation](http://localhost:8000/docs) or check out the [Quick Start Guide](QUICKSTART.md).
 
