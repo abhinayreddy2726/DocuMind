@@ -4,7 +4,7 @@ A production-ready FastAPI application that extracts details from PAN (Permanent
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ## ✨ Features
 
